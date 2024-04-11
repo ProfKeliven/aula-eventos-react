@@ -1,8 +1,17 @@
-# React + Vite
+# Para instalar:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- passo 1:
+    Dentro do terminal, na pasta que você quer baixar o app, digitar:
+    git clone -b master https://github.com/ProfKeliven/aula-eventos-react.git
 
-Currently, two official plugins are available:
+- passo 2:
+    Entrar na pasta do projeto que foi baixado, digitar no terminal:
+    cd aula-eventos-react
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- passo 3:
+    instalar as dependencias, digitar no terminal:
+    npm install
+
+- passo 4:
+    executar o projeto, digitar no terminal:
+    npm run dev
